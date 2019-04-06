@@ -34,7 +34,7 @@ public class Billsales implements java.io.Serializable{
 		this.realName = realName;
 	}
 	public Billsales(){}
-	
+	sss
 	
 	
 	
